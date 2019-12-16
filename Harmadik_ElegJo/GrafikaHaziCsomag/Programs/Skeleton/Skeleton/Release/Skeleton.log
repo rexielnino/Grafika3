@@ -1,0 +1,30 @@
+﻿  Skeleton.cpp
+d:\BME\5 felev\Grafika\Harmadik_ElegJo\GrafikaHaziCsomag\Programs\Skeleton\Skeleton\framework.h(165,1): warning C4996:  'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message :  see declaration of 'fopen'
+d:\BME\5 felev\Grafika\Harmadik_ElegJo\GrafikaHaziCsomag\Programs\Skeleton\Skeleton\Skeleton.cpp(47,1): warning C4305:  '=': truncation from 'double' to 'float'
+d:\BME\5 felev\Grafika\Harmadik_ElegJo\GrafikaHaziCsomag\Programs\Skeleton\Skeleton\Skeleton.cpp(61,9): warning C4244:  'argument': conversion from 'double' to 'float', possible loss of data
+d:\BME\5 felev\Grafika\Harmadik_ElegJo\GrafikaHaziCsomag\Programs\Skeleton\Skeleton\Skeleton.cpp(60,17): warning C4244:  'argument': conversion from 'double' to 'float', possible loss of data
+d:\BME\5 felev\Grafika\Harmadik_ElegJo\GrafikaHaziCsomag\Programs\Skeleton\Skeleton\Skeleton.cpp(76,15): warning C4244:  'initializing': conversion from 'double' to 'float', possible loss of data
+d:\BME\5 felev\Grafika\Harmadik_ElegJo\GrafikaHaziCsomag\Programs\Skeleton\Skeleton\Skeleton.cpp(510,12): warning C4305:  '=': truncation from 'double' to 'float'
+d:\BME\5 felev\Grafika\Harmadik_ElegJo\GrafikaHaziCsomag\Programs\Skeleton\Skeleton\Skeleton.cpp(513,15): warning C4244:  'initializing': conversion from 'double' to 'float', possible loss of data
+d:\BME\5 felev\Grafika\Harmadik_ElegJo\GrafikaHaziCsomag\Programs\Skeleton\Skeleton\Skeleton.cpp(514,16): warning C4244:  'initializing': conversion from 'double' to 'float', possible loss of data
+d:\BME\5 felev\Grafika\Harmadik_ElegJo\GrafikaHaziCsomag\Programs\Skeleton\Skeleton\Skeleton.cpp(517,33): warning C4244:  'argument': conversion from 'double' to 'float', possible loss of data
+d:\BME\5 felev\Grafika\Harmadik_ElegJo\GrafikaHaziCsomag\Programs\Skeleton\Skeleton\Skeleton.cpp(524,15): warning C4244:  'initializing': conversion from 'double' to 'float', possible loss of data
+d:\BME\5 felev\Grafika\Harmadik_ElegJo\GrafikaHaziCsomag\Programs\Skeleton\Skeleton\Skeleton.cpp(525,16): warning C4244:  'initializing': conversion from 'double' to 'float', possible loss of data
+d:\BME\5 felev\Grafika\Harmadik_ElegJo\GrafikaHaziCsomag\Programs\Skeleton\Skeleton\Skeleton.cpp(529,15): warning C4244:  'initializing': conversion from 'double' to 'float', possible loss of data
+d:\BME\5 felev\Grafika\Harmadik_ElegJo\GrafikaHaziCsomag\Programs\Skeleton\Skeleton\Skeleton.cpp(530,16): warning C4244:  'initializing': conversion from 'double' to 'float', possible loss of data
+d:\BME\5 felev\Grafika\Harmadik_ElegJo\GrafikaHaziCsomag\Programs\Skeleton\Skeleton\Skeleton.cpp(587,1): warning C4305:  'argument': truncation from 'double' to 'float'
+d:\BME\5 felev\Grafika\Harmadik_ElegJo\GrafikaHaziCsomag\Programs\Skeleton\Skeleton\Skeleton.cpp(689,21): warning C4018:  '<': signed/unsigned mismatch
+d:\BME\5 felev\Grafika\Harmadik_ElegJo\GrafikaHaziCsomag\Programs\Skeleton\Skeleton\Skeleton.cpp(694,21): warning C4018:  '<': signed/unsigned mismatch
+d:\BME\5 felev\Grafika\Harmadik_ElegJo\GrafikaHaziCsomag\Programs\Skeleton\Skeleton\Skeleton.cpp(777,1): warning C4305:  'argument': truncation from 'double' to 'float'
+d:\BME\5 felev\Grafika\Harmadik_ElegJo\GrafikaHaziCsomag\Programs\Skeleton\Skeleton\Skeleton.cpp(781,1): warning C4305:  'argument': truncation from 'double' to 'float'
+d:\BME\5 felev\Grafika\Harmadik_ElegJo\GrafikaHaziCsomag\Programs\Skeleton\Skeleton\Skeleton.cpp(805,81): warning C4244:  'argument': conversion from 'double' to 'float', possible loss of data
+d:\BME\5 felev\Grafika\Harmadik_ElegJo\GrafikaHaziCsomag\Programs\Skeleton\Skeleton\Skeleton.cpp(805,19): warning C4244:  'argument': conversion from 'double' to 'float', possible loss of data
+d:\BME\5 felev\Grafika\Harmadik_ElegJo\GrafikaHaziCsomag\Programs\Skeleton\Skeleton\Skeleton.cpp(845,19): warning C4101:  'fZ': unreferenced local variable
+d:\BME\5 felev\Grafika\Harmadik_ElegJo\GrafikaHaziCsomag\Programs\Skeleton\Skeleton\Skeleton.cpp(884,12): warning C4244:  'initializing': conversion from 'double' to 'float', possible loss of data
+  Generating code
+  4 of 484 functions ( 0.8%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Skeleton.vcxproj -> D:\BME\5 felev\Grafika\Harmadik_ElegJo\GrafikaHaziCsomag\Programs\Skeleton\bin\Skeleton.exe
